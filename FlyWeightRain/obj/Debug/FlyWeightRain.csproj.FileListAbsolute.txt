@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\bin\Debug\drop1.png
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\bin\Debug\drop2.png
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\bin\Debug\FlyWeightRain.exe.config
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\bin\Debug\FlyWeightRain.exe
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\bin\Debug\FlyWeightRain.pdb
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.Form1.resources
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.exe
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.pdb
+C:\Users\User\Desktop\LAB7KL\FlyWeightRain\obj\Debug\FlyWeightRain.exe.config
